@@ -36,7 +36,7 @@ textarea {
 	font-family: inherit;
 }
 
-button::moz-focus-inner {
+button::-moz-focus-inner {
 	padding: 0;
 	border: 0;
 }

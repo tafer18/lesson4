@@ -91,11 +91,11 @@ header {
 
 .beautiful {
 	color: red;
-	font-family: Are You Serious;
+	font-family: "Are You Serious";
 }
 
 .sub-beautiful {
-	font-family: Grechen Fuemen;
+	font-family: "Grechen Fuemen";
 	color: seagreen;
 }
 
@@ -130,4 +130,7 @@ li {
 }
 li:last-child {
 	color: springgreen;
+}
+ol {
+	color: red;
 }
